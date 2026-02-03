@@ -28,6 +28,8 @@
 
 | ID | Date | Title | Acceptance criteria | Files changed | Status | Notes |
 |----|------|-------|---------------------|---------------|--------|-------|
+| P-010 | 2026-02-03 | Chore: add editor and eol configs | 1) .editorconfig и .gitattributes созданы 2) LF для md/py/yml 3) PROGRESS обновлён | .editorconfig, .gitattributes, PROGRESS.md | ✅ Done | Единые переносы строк и стиль в репо |
+| P-009 | 2026-02-03 | Chore: add SUPPORT guidelines | 1) SUPPORT.md создан 2) Как задавать вопрос и что приложить 3) PROGRESS обновлён | SUPPORT.md, PROGRESS.md | ✅ Done | Единые правила обращений за помощью |
 | P-008 | 2026-02-03 | Chore: add SECURITY policy | 1) SECURITY.md создан 2) Описано как репортить уязвимости 3) PROGRESS обновлён | SECURITY.md, PROGRESS.md | ✅ Done | Канал для ответственного раскрытия уязвимостей |
 | P-007 | 2026-02-03 | Chore: add CODE_OF_CONDUCT | 1) CODE_OF_CONDUCT.md создан 2) Обязательства, стандарты, недопустимое поведение 3) PROGRESS обновлён | CODE_OF_CONDUCT.md, PROGRESS.md | ✅ Done | Правила поведения в проекте |
 | P-006 | 2026-02-03 | Chore: add LICENSE (MIT) | 1) LICENSE создан с текстом MIT 2) Упоминание в README есть 3) PROGRESS обновлён | LICENSE, PROGRESS.md | ✅ Done | Юридическая основа использования и распространения |
