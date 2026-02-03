@@ -28,7 +28,8 @@
 
 | ID | Date | Title | Acceptance criteria | Files changed | Status | Notes |
 |----|------|-------|---------------------|---------------|--------|-------|
-| P-006 | 2026-02-03 | Chore: add LICENSE (MIT) | 1) LICENSE с текстом MIT добавлен 2) README упоминает LICENSE 3) PROGRESS обновлён | LICENSE, PROGRESS.md | ✅ Done | Юридическая основа использования и распространения |
+| P-008 | 2026-02-03 | Chore: add SECURITY policy | 1) SECURITY.md создан 2) Описано как репортить уязвимости 3) PROGRESS обновлён | SECURITY.md, PROGRESS.md | ✅ Done | Канал для ответственного раскрытия уязвимостей |
+| P-007 | 2026-02-03 | Chore: add CODE_OF_CONDUCT | 1) CODE_OF_CONDUCT.md создан 2) Обязательства, стандарты, недопустимое поведение 3) PROGRESS обновлён | CODE_OF_CONDUCT.md, PROGRESS.md | ✅ Done | Правила поведения в проекте |
 | P-006 | 2026-02-03 | Chore: add LICENSE (MIT) | 1) LICENSE создан с текстом MIT 2) Упоминание в README есть 3) PROGRESS обновлён | LICENSE, PROGRESS.md | ✅ Done | Юридическая основа использования и распространения |
 | P-005 | 2026-02-03 | Docs: add roadmap for 100 commits | 1) handbook/ROADMAP.md создан 2) Этапы MVP → reports → QA → tests → polish описаны 3) PROGRESS обновлён | handbook/ROADMAP.md, PROGRESS.md | ✅ Done | План этапов разработки |
 | P-004 | 2026-02-03 | Docs: add PROJECT_CHARTER | 1) handbook/PROJECT_CHARTER.md создан 2) Есть миссия, принципы, scope и non-scope 3) PROGRESS.md обновлён | handbook/PROJECT_CHARTER.md, PROGRESS.md | ✅ Done | Фиксация миссии и границ проекта |
