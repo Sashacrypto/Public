@@ -28,6 +28,8 @@
 
 | ID | Date | Title | Acceptance criteria | Files changed | Status | Notes |
 |----|------|-------|---------------------|---------------|--------|-------|
+| P-006 | 2026-02-03 | Chore: add LICENSE (MIT) | 1) LICENSE с текстом MIT добавлен 2) README упоминает LICENSE 3) PROGRESS обновлён | LICENSE, PROGRESS.md | ✅ Done | Юридическая основа использования и распространения |
+| P-006 | 2026-02-03 | Chore: add LICENSE (MIT) | 1) LICENSE создан с текстом MIT 2) Упоминание в README есть 3) PROGRESS обновлён | LICENSE, PROGRESS.md | ✅ Done | Юридическая основа использования и распространения |
 | P-005 | 2026-02-03 | Docs: add roadmap for 100 commits | 1) handbook/ROADMAP.md создан 2) Этапы MVP → reports → QA → tests → polish описаны 3) PROGRESS обновлён | handbook/ROADMAP.md, PROGRESS.md | ✅ Done | План этапов разработки |
 | P-004 | 2026-02-03 | Docs: add PROJECT_CHARTER | 1) handbook/PROJECT_CHARTER.md создан 2) Есть миссия, принципы, scope и non-scope 3) PROGRESS.md обновлён | handbook/PROJECT_CHARTER.md, PROGRESS.md | ✅ Done | Фиксация миссии и границ проекта |
 | P-003 | 2026-02-03 | Docs: add PROGRESS mini-issue tracker | 1) PROGRESS.md содержит таблицу с примерами 2) Добавлены пояснения "как вести" с примерами acceptance criteria 3) Описан формат таблицы и правила обновления | PROGRESS.md | ✅ Done | Улучшение документации трекера прогресса для ясности |
