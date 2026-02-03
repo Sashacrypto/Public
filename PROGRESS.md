@@ -28,6 +28,7 @@
 
 | ID | Date | Title | Acceptance criteria | Files changed | Status | Notes |
 |----|------|-------|---------------------|---------------|--------|-------|
+| P-005 | 2026-02-03 | Docs: add roadmap for 100 commits | 1) handbook/ROADMAP.md создан 2) Этапы MVP → reports → QA → tests → polish описаны 3) PROGRESS обновлён | handbook/ROADMAP.md, PROGRESS.md | ✅ Done | План этапов разработки |
 | P-004 | 2026-02-03 | Docs: add PROJECT_CHARTER | 1) handbook/PROJECT_CHARTER.md создан 2) Есть миссия, принципы, scope и non-scope 3) PROGRESS.md обновлён | handbook/PROJECT_CHARTER.md, PROGRESS.md | ✅ Done | Фиксация миссии и границ проекта |
 | P-003 | 2026-02-03 | Docs: add PROGRESS mini-issue tracker | 1) PROGRESS.md содержит таблицу с примерами 2) Добавлены пояснения "как вести" с примерами acceptance criteria 3) Описан формат таблицы и правила обновления | PROGRESS.md | ✅ Done | Улучшение документации трекера прогресса для ясности |
 | P-002 | 2026-02-03 | Docs: add README with project vision and usage | 1) README содержит цель проекта и кому полезно 2) Есть быстрый старт 3) Указаны ограничения (только stdlib) 4) Описана структура репозитория | README.md, PROGRESS.md | ✅ Done | Основная документация проекта для новых пользователей |
